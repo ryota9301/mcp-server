@@ -1,6 +1,6 @@
 {
   "name": "mcp-server",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Model Context Protocol (MCP) server for the Webflow Data API.",
   "main": "src/index.ts",
   "scripts": {
